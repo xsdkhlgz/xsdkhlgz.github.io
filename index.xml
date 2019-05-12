@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://xsdkhlgz.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 20:29:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://xsdkhlgz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog of kh</title>
+      <link>https://xsdkhlgz.github.io/post/blog/</link>
+      <pubDate>Sun, 12 May 2019 20:29:41 +0800</pubDate>
+      
+      <guid>https://xsdkhlgz.github.io/post/blog/</guid>
+      <description>逝去的辉煌与悔恨，将用这黑色的痕迹撰写
+ --消逝的刻痕  </description>
+    </item>
+    
+  </channel>
+</rss>
